@@ -42,11 +42,11 @@ menu:
 social:
   home:
     title: MinHow
-    url: //minhow.com
+    url: 
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: 
     target: true
   weibo:
     title: Weibo
